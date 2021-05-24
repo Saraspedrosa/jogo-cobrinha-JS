@@ -19,6 +19,6 @@ function criarCobrinha(){
     }
 
 }
-// chamando a função:
+// chamando a função
 criarBG();
 criarCobrinha();
